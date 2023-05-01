@@ -6,7 +6,7 @@ const Nav = () => {
   return (
     <nav>
       <div className="home">
-        <Link href="/">Lorem</Link>
+        <Link href="/">Pulmo-Gen</Link>
       </div>
       <div className={styles.buttons}>
         <Link href={"/features"}>
