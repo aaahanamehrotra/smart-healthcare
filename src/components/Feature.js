@@ -2,7 +2,6 @@ import React from "react";
 import styles from "../styles/Feature.module.css";
 
 const Feature = ({ number, title, desc }) => {
-  console.log("J");
   return (
     <div className={styles.feature}>
       <div className={styles.number}>{number}</div>

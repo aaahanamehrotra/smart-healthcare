@@ -5,7 +5,7 @@ import Link from "next/link";
 const Nav = () => {
   return (
     <nav>
-      <div class="home">
+      <div className="home">
         <Link href="/">Lorem</Link>
       </div>
       <div className={styles.buttons}>

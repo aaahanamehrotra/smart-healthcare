@@ -13,6 +13,7 @@ const Features = () => {
             number={feature.number}
             title={feature.title}
             desc={feature.desc}
+            key={feature.number}
           />
         ))}
       </div>
