@@ -1,0 +1,12 @@
+.box {
+  max-width: 600px;
+  margin: auto;
+  text-align: justify;
+  font-size: 18px;
+  line-height: 26px;
+  margin-block: 60px;
+}
+
+.text {
+  padding: 20px;
+}

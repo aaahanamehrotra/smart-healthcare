@@ -1,0 +1,29 @@
+.feature {
+  width: 400px;
+  background-color: var(--blue);
+  text-align: justify;
+  margin-block: 40px;
+  margin-inline: 20px;
+  padding-bottom: 20px;
+  border-radius: 4px;
+}
+.number {
+  border-radius: 50%;
+  position: relative;
+  background-color: var(--db);
+  height: 60px;
+  width: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  left: -30px;
+  top: -30px;
+  font-size: 24px;
+}
+
+.title {
+  margin-top: -30px;
+}
+.desc {
+  padding-inline: 20px;
+}
