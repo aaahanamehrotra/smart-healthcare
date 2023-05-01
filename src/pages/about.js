@@ -25,7 +25,7 @@ This means to correctly identify individuals who are not infected with COVID-19 
           A well-grounded and refined version of biological lungs, a combination of external artificial respiratory system and a genetically engineered one. This product is a perfect substitute to lung failure and is the only alternative and viable solution to this problem. 
 We are also providing a service of analysing and visualising huge amounts of COVID-19 data using attractive graphics. 
 Through this, we can state that we have a three fold purpose/aim. 
-One is device, two model and prediction and three data visualisation.ML prediction.we'll have a broader scope.
+One is device, two model and prediction and three data visualisation.ML prediction. We will have a broader scope.
 Secondly, to develop a model that analyses CT scans and X Rays and predicts if the infected patients show signs of pneumonia. 
 And thirdly, to analyze and visually present large amounts of COVID-19 data using appealing graphics. With these objectives, we aim to have a wide-ranging impact.
 
