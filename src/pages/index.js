@@ -10,7 +10,8 @@ export default function Home() {
       <h1 className={styles.heading}>Pulmo-Gen</h1>
       <hr />
       <h3 className={styles.tagline}>
-        Your Health, Our Priority
+        It wasn't an invention supposed to be 
+A way to revolutionize our existence
       </h3>
       <div className={styles.buttons}>
         <Link href={"/features"}>
