@@ -4,7 +4,7 @@ import styles from "../styles/Feature.module.css";
 const Feature = ({ number, title, desc }) => {
   return (
     <div className={styles.feature}>
-      <div className={styles.number}>{number}</div>
+//       <div className={styles.number}>{number}</div>
       <h2 className={styles.title}>{title}</h2>
       <div className={styles.desc}>{desc}</div>
     </div>
