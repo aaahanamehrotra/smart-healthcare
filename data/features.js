@@ -29,7 +29,7 @@ const data = [
     desc: "more effective, energy efficient as well as cost effective thereby, making it available to the masses and helping in the skyrocketing of healthcare industry.",
   },
   {
-    number: "5",
+    number: "6",
     title: "Lorem Ipsum",
     desc: "As technology advances, we aim to fully develop our idea of a better and a much more refined version of biological lungs. ",
   },
