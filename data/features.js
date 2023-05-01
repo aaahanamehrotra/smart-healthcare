@@ -20,13 +20,18 @@ const data = [
   {
     number: "4",
     title: "Lorem Ipsum",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro illum voluptate molestias est ex autem modi tempore, praesentium incidunt odit doloribus unde? Ad qui tenetur possimus error aut porro maxime.",
+    desc: "an innovative and creative solution by focusing on artificial replacement which will be the main priority of the healthcare system in the future.",
   },
 
   {
     number: "5",
     title: "Lorem Ipsum",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro illum voluptate molestias est ex autem modi tempore, praesentium incidunt odit doloribus unde? Ad qui tenetur possimus error aut porro maxime.",
+    desc: "more effective, energy efficient as well as cost effective thereby, making it available to the masses and helping in the skyrocketing of healthcare industry.",
+  },
+  {
+    number: "5",
+    title: "Lorem Ipsum",
+    desc: "As technology advances, we aim to fully develop our idea of a better and a much more refined version of biological lungs. ",
   },
 ];
 
