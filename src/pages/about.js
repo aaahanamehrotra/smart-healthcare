@@ -22,14 +22,14 @@ This means to correctly identify individuals who are not infected with COVID-19 
       <div className={styles.box}>
         <h2>The Solution</h2>
         <div className={styles.text}>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-          molestias quos ipsam nulla quibusdam vero voluptatibus vel quae quam
-          officiis ipsum optio eaque, perferendis exercitationem hic quia ut?
-          Necessitatibus similique hic est natus nulla harum praesentium aut
-          temporibus sint voluptas, quasi repudiandae deserunt numquam saepe!
-          Esse suscipit eos possimus, velit dolore inventore neque
-          exercitationem perferendis fugiat tempora quae ducimus ex maiores
-          debitis, ipsa blanditiis!
+          A well-grounded and refined version of biological lungs, a combination of external artificial respiratory system and a genetically engineered one. This product is a perfect substitute to lung failure and is the only alternative and viable solution to this problem. 
+We are also providing a service of analysing and visualising huge amounts of COVID-19 data using attractive graphics. 
+Through this, we can state that we have a three fold purpose/aim. 
+One is device, two model and prediction and three data visualisation.ML prediction.we'll have a broader scope.
+Secondly, to develop a model that analyses CT scans and X Rays and predicts if the infected patients show signs of pneumonia. 
+And thirdly, to analyze and visually present large amounts of COVID-19 data using appealing graphics. With these objectives, we aim to have a wide-ranging impact.
+
+
         </div>
       </div>
       <div></div>
