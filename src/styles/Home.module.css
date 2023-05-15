@@ -40,6 +40,25 @@
   background-color: var(--contrast);
   color: var(--white);
 }
+.box {
+  max-width: 600px;
+  margin: auto;
+  text-align: justify;
+  font-size: 24px;
+  line-height: 30px;
+  margin-block: 60px;
+}
+
+.text {
+  padding: 20px;
+}
+.vm {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+  min-height: 100vh;
+}
 
 @media only screen and (max-width: 600px) {
   .main {

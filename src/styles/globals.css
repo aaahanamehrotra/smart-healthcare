@@ -15,6 +15,7 @@
   margin: 0;
   font-family: "Poppins", sans-serif;
   font-family: "Roboto", sans-serif;
+  color: var(--contrast);
 }
 
 html,
